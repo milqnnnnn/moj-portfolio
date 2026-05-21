@@ -3012,7 +3012,7 @@ p {
   max-width: 50%;
   display: flex;
   position: absolute;
-  inset: auto 0% -23% auto;
+  inset: auto 0% -13% auto;
 }
 
 .hero-wrapper {
