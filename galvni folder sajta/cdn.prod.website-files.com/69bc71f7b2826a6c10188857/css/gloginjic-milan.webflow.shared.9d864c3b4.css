@@ -3660,6 +3660,12 @@ p {
     bottom: -7%;
   }
 }
+@media screen and (min-width: 1440px) {
+  .hero-image {
+    bottom: -13%;
+  }
+}
+
 
 
 @media screen and (max-width: 991px) {
