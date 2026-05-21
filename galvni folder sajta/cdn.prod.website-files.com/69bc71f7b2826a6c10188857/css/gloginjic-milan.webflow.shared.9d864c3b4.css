@@ -3654,11 +3654,16 @@ p {
   }
 }
 
-@media screen and (min-width: 1400px) {
+@media screen and (min-width: 1920px) {
   .hero-image {
-    bottom: 7%;
+    bottom: -7%;
   }
 }
+
+@media screen and (min-width: 1000px) {
+  .hero-image {
+    bottom: -7%;
+  }
 
 @media screen and (max-width: 991px) {
   h2 {
