@@ -3641,6 +3641,7 @@ p {
   .hero-image {
     flex: 0 auto;
     max-width: 82%;
+    inset: auto 0% -13% auto;
   }
 
   .hero-gradient {
@@ -3660,10 +3661,6 @@ p {
   }
 }
 
-@media screen and (min-width: 1000px) {
-  .hero-image {
-    bottom: -7%;
-  }
 
 @media screen and (max-width: 991px) {
   h2 {
