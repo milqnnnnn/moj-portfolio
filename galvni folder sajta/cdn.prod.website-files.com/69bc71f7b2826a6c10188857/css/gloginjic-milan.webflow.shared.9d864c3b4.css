@@ -3654,7 +3654,7 @@ p {
   }
 }
 
-@media screen and (min-width: 1920px) {
+@media screen and (min-width: 1780px) {
   .hero-image {
     bottom: -7%;
   }
